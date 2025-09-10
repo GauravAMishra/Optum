@@ -13,7 +13,7 @@ income_estimator = IncomeEstimator(model_path="models/income_estimator_rf.pkl", 
 # with open("E:/Data Science (Self Study & Class)/Interview/optum/cases.json", "r") as f:
 #     test_data = json.load(f)
 
-with open("E:/Data Science (Self Study & Class)/Interview/optum/testcases.json", "r") as f:
+with open("testcases.json", "r") as f:
     test_data = json.load(f)
 
 
