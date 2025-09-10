@@ -3,7 +3,10 @@
 ---
 
     
-    ```python run.py```
+    ```
+        python run.py
+    ```
+
 - (Above file [run.py] uses the same structure as specified in the instruction manual)
 
 ### To run via command line
